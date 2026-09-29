@@ -7,7 +7,7 @@ Phases
   tune        pilot03 tuning on the TUNING split (LFQR grid, heuristic grid, QMR/GPSR sanity)
   final       locked FINAL split, 10 replicates, reference scenarios (needs --selected)
   ablation    FINAL split, 5 replicates, one-component-removed variants of the selected LFQR
-  sensitivity FINAL split, 5 replicates, editor/reviewer operating conditions (base S1_L02)
+  sensitivity FINAL split, 5 replicates, alternative operating conditions (base S1_L02)
   scaling     FINAL split, 3 replicates, N = 100..1000 at fixed density
   convergence TUNING split, 3 replicates, LFQR with 80 training traces
 Generated variant configs are written under OUT_ROOT/_configs/ and referenced by path,
