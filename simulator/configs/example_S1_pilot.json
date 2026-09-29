@@ -1,0 +1,11 @@
+{
+  "nodes": 100,
+  "area": 1500.0,
+  "steps": 300,
+  "ttl": 100,
+  "load": 0.01,
+  "alpha": 0.05,
+  "lambda_energy": 5.0,
+  "c_drop": 100.0,
+  "use_drop_notification": true
+}

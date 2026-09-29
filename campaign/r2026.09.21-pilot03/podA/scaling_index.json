@@ -1,0 +1,15 @@
+{
+ "runs": {
+  "N100|cost_heuristic|done=True": 2,
+  "N100|lfqr_transfer|done=True": 2,
+  "N1000|cost_heuristic|done=True": 2,
+  "N1000|lfqr_transfer|done=True": 2,
+  "N250|cost_heuristic|done=True": 2,
+  "N250|lfqr_transfer|done=True": 2,
+  "N500|cost_heuristic|done=True": 2,
+  "N500|lfqr_transfer|done=True": 2
+ },
+ "code_sha256": {
+  "4ab1ce51bc95f0a46be0cf1e4ba63afe6aeb1e266326af063e5f16292bef88e2": 16
+ }
+}

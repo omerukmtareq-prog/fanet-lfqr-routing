@@ -1,0 +1,40 @@
+{
+ "runs": {
+  "S1|cost_heuristic|done=True": 4,
+  "S1|geo_greedy|done=True": 10,
+  "S1|gpsr|done=True": 10,
+  "S1|heur_plus|done=True": 3,
+  "S1|qmr|done=True": 10,
+  "S1|random_quadrant|done=True": 10,
+  "S1|tabular_q_hist|done=True": 10,
+  "S1_L02|cost_heuristic|done=True": 3,
+  "S1_L02|geo_greedy|done=True": 10,
+  "S1_L02|gpsr|done=True": 10,
+  "S1_L02|heur_plus|done=True": 4,
+  "S1_L02|qmr|done=True": 10,
+  "S1_L02|random_quadrant|done=True": 10,
+  "S1_L02|tabular_q_hist|done=True": 10,
+  "S1_hist_load|cost_heuristic|done=True": 1,
+  "S1_hist_load|geo_greedy|done=True": 3,
+  "S1_hist_load|gpsr|done=True": 3,
+  "S1_hist_load|lfqr|done=True": 1,
+  "S1_hist_load|qmr|done=True": 3,
+  "S2|cost_heuristic|done=True": 3,
+  "S2|geo_greedy|done=True": 10,
+  "S2|gpsr|done=True": 10,
+  "S2|heur_plus|done=True": 3,
+  "S2|qmr|done=True": 10,
+  "S2|random_quadrant|done=True": 10,
+  "S2|tabular_q_hist|done=True": 10,
+  "S3|cost_heuristic|done=True": 4,
+  "S3|geo_greedy|done=True": 10,
+  "S3|gpsr|done=True": 10,
+  "S3|heur_plus|done=True": 3,
+  "S3|qmr|done=True": 10,
+  "S3|random_quadrant|done=True": 10,
+  "S3|tabular_q_hist|done=True": 10
+ },
+ "code_sha256": {
+  "4ab1ce51bc95f0a46be0cf1e4ba63afe6aeb1e266326af063e5f16292bef88e2": 238
+ }
+}

@@ -1,0 +1,1 @@
+{"alpha": 0.005, "c_drop": 1000.0, "drop_infeasible": true, "eps_end": 0.005, "eps_start": 0.05, "feature_interactions": true, "init": "heuristic", "lambda_energy": 1.0, "online_adaptation": false, "prune_stale_dest": true, "queue_policy": "slack", "w_energy": 0.2, "w_link": 1.0, "w_queue": 0.5, "w_stability": 0.5, "weight_sharing": "shared"}

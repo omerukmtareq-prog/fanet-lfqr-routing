@@ -1,0 +1,19 @@
+{
+ "runs": {
+  "S1|geo_plus|done=True": 7,
+  "S1|gpsr_plus|done=True": 7,
+  "S1|qmr_plus|done=True": 6,
+  "S1_L02|geo_plus|done=True": 7,
+  "S1_L02|gpsr_plus|done=True": 6,
+  "S1_L02|qmr_plus|done=True": 7,
+  "S2|geo_plus|done=True": 6,
+  "S2|gpsr_plus|done=True": 7,
+  "S2|qmr_plus|done=True": 7,
+  "S3|geo_plus|done=True": 7,
+  "S3|gpsr_plus|done=True": 7,
+  "S3|qmr_plus|done=True": 6
+ },
+ "code_sha256": {
+  "4ab1ce51bc95f0a46be0cf1e4ba63afe6aeb1e266326af063e5f16292bef88e2": 80
+ }
+}

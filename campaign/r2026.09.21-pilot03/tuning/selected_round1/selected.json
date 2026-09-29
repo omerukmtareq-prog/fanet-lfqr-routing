@@ -1,0 +1,32 @@
+{
+ "heur": {
+  "w_energy": 0.2,
+  "w_link": 1.0,
+  "w_queue": 0.25,
+  "w_stability": 0.5
+ },
+ "heur_plus": {
+  "drop_infeasible": true,
+  "prune_stale_dest": true,
+  "queue_policy": "slack",
+  "w_energy": 0.2,
+  "w_link": 1.0,
+  "w_queue": 0.5,
+  "w_stability": 0.5
+ },
+ "labels": {
+  "heur_label": "heur_q0.25_e0.2_l1.0_s0.5_none",
+  "heur_plus_label": "heur_q0.5_e0.2_l1.0_s0.5_plus",
+  "lfqr_label": "lfqr_i1_a0.02_plus_o0"
+ },
+ "lfqr": {
+  "alpha": 0.02,
+  "drop_infeasible": true,
+  "feature_interactions": true,
+  "init": "heuristic",
+  "online_adaptation": false,
+  "prune_stale_dest": true,
+  "queue_policy": "slack",
+  "weight_sharing": "shared"
+ }
+}

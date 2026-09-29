@@ -1,0 +1,21 @@
+{
+ "runs": {
+  "S1|cost_heuristic|done=True": 6,
+  "S1|heur_plus|done=True": 7,
+  "S1|lfqr|done=True": 10,
+  "S1_L02|cost_heuristic|done=True": 7,
+  "S1_L02|heur_plus|done=True": 6,
+  "S1_L02|lfqr|done=True": 10,
+  "S1_hist_load|cost_heuristic|done=True": 2,
+  "S1_hist_load|lfqr|done=True": 2,
+  "S2|cost_heuristic|done=True": 7,
+  "S2|heur_plus|done=True": 7,
+  "S2|lfqr|done=True": 10,
+  "S3|cost_heuristic|done=True": 6,
+  "S3|heur_plus|done=True": 7,
+  "S3|lfqr|done=True": 10
+ },
+ "code_sha256": {
+  "4ab1ce51bc95f0a46be0cf1e4ba63afe6aeb1e266326af063e5f16292bef88e2": 97
+ }
+}
